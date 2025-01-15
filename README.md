@@ -1,5 +1,11 @@
 # Business Analyst | Data Scientist | Tech Consultant
 
+Hello everyone! I am pursuing a Master’s degree in Information Technology and Management from The University of Texas at Dallas, currently in my 2nd semester. I intend to graduate in May 2026. I completed a Bachelor’s degree in Information Science & Engineering from Ramaiah Institute of Technology, India, in May 2024. I was exposed to data analysis during my bachelor's degree, and since then, I have been fascinated by the idea of solving problems through a data-driven and analytical approach.
+
+In my experience as a Data Engineer Intern at Hirademy Technologies, I contributed to developing a tool for analyzing medical lab reports using Gemini API keys. I helped build an Examiner Dashboard for an AI-based Examination Platform. My Python, React, and API Key extraction skills were key to these projects. I also served as an Operations Manager for a non-profit organization in India, overseeing Spoken English classes for underprivileged children lacking access to English education.
+ 
+I love being innovative, and have a strong aptitude for problem-solving and data analysis. I'm motivated to advance my leadership skills and technical knowledge to influence IT initiatives significantly. I work best in team-oriented settings where creative, data-driven ideas are used to improve results. As my career develops, I hope to work as a Data Analyst, Business Analyst, Data Scientist, or Technical Consultant, applying my abilities to find patterns, optimize workflows, and assist in making data-driven decisions that will lead to organizational growth.
+
 ## Technical Skills
 - **Languages**: Python, SQL, R, C/C++, HTML, CSS, ReactJS
 - **Certifications**: Google Professional Data Analytics, Google Cloud Platform (GCP), Python, SQL
