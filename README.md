@@ -54,7 +54,7 @@ resulting in 30% improved operational efficiency and 25% reduction in administra
 ![](https://github.com/zeeshan0710/portfolio/tree/main/images/cyberthreat.jpeg)
 
 ## Leadership Experience
-- **Microsoft Ambassador** | *Jan 2024 – Present*
+- **Microsoft Ambassador** | *Jan 2025 – Present*
 - **Code.exe UTD**, Technical Officer | *Sep 2024 – Present*
 - **Ramaiah Institute of Technology**, Class Representative | *Feb 2021 – May 2024*
 - **UpChild Foundation**, Operations Manager | *Jul 2022 – Jan 2023*
