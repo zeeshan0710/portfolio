@@ -1,66 +1,93 @@
-# Business Analyst | Data Scientist | Tech Consultant
+# Zeeshan Ahmad — Portfolio
 
-Hello everyone! I am pursuing a Master’s degree in Information Technology and Management from The University of Texas at Dallas, currently in my 2nd semester. I intend to graduate in May 2026. I completed a Bachelor’s degree in Information Science & Engineering from Ramaiah Institute of Technology, India, in May 2024. I was exposed to data analysis during my bachelor's degree, and since then, I have been fascinated by the idea of solving problems through a data-driven and analytical approach.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4f8ef7?style=flat-square&logo=github)](https://zeeshan0710.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zeeshan0710-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/zeeshan0710)
+[![Email](https://img.shields.io/badge/Email-Zeeshan.Ahmad@utdallas.edu-D14836?style=flat-square&logo=gmail)](mailto:Zeeshan.Ahmad@utdallas.edu)
 
-In my experience as a Data Engineer Intern at Hirademy Technologies, I contributed to developing a tool for analyzing medical lab reports using Gemini API keys. I helped build an Examiner Dashboard for an AI-based Examination Platform. My Python, React, and API Key extraction skills were key to these projects. I also served as an Operations Manager for a non-profit organization in India, overseeing Spoken English classes for underprivileged children lacking access to English education.
- 
-I love being innovative, and have a strong aptitude for problem-solving and data analysis. I'm motivated to advance my leadership skills and technical knowledge to influence IT initiatives significantly. I work best in team-oriented settings where creative, data-driven ideas are used to improve results. As my career develops, I hope to work as a Data Analyst, Business Analyst, Data Scientist, or Technical Consultant, applying my abilities to find patterns, optimize workflows, and assist in making data-driven decisions that will lead to organizational growth.
+> Data Analyst · AI Engineer · Tech Consultant · Dallas, TX
 
-## Technical Skills
-- **Languages**: Python, SQL, R, C/C++, HTML, CSS, ReactJS
-- **Certifications**: Google Professional Data Analytics, Google Cloud Platform (GCP), Python, SQL
-- **Tools & Others**: Tableau, Power BI, Statistics, Machine Learning, Artificial Intelligence, Pandas, Numpy, Data Science, API integration, Snowflake, OLAP/OLTP, MS Office Suite, Apache Hadoop, Spark, AWS
+---
 
-## Education
+## About
 
-**University of Texas at Dallas**\
-**MS in Information Technology & Management**  
-*Aug 2024 - May 2026*
-- **GPA**: 3.8/4.0
-- **Coursework**: Big Data, Data Visualization, Statistics, Database Management System
+MS in Information Technology & Management at **UT Dallas** (GPA: 3.85, graduating May 2026). I build data-driven solutions at the intersection of AI, analytics, and real-world impact — from GIS pipelines at DFW International Airport to LLM-powered medical systems and published AI research.
 
-**Ramaiah Institute of Technology (RIT)**\
-**BE in Information Science & Engineering**  
-*Dec 2020 - May 2024*
-- **GPA**: 3.6/4.0
-- **Coursework**: Data Science, Cloud Computing, Business Analytics, Machine Learning
+---
 
+## 🎓 Education
 
-## Work Experience
+| Degree | Institution | Period | GPA |
+|--------|-------------|--------|-----|
+| MS in Information Technology & Management | University of Texas at Dallas | Aug 2024 – May 2026 | 3.85/4.00 |
+| BE in Information Science & Engineering | Ramaiah Institute of Technology | Dec 2020 – May 2024 | 3.6/4.0 |
 
-**Data Engineering Intern**\
-Hirademy Technologies\
-*Feb 2024 - May 2024*
-- Engineered an AI-based medical report analysis system using Python and Langchain, integrating OCR and machine learning APIs to automate lab data extraction, resulting in enhanced precision and 40% improved diagnostic accuracy.
-- Designed an AI-powered Examiner Dashboard using ReactJS and HTML/CSS, incorporating real-time data visualization and automated scheduling, which optimized database management, improved exam management systems,
-resulting in 30% improved operational efficiency and 25% reduction in administrative overhead.
+---
 
-## Projects
+## 💼 Experience
 
-[**Data-Driven Urban Mobility Optimization**](https://github.com/zeeshan0710/Optimizing-Urban-Mobility) | *Python, SQL, Excel, Tableau*
-- In a project focused on London's extensive bike-sharing network, I engineered a robust data pipeline using Python and pandas that efficiently processed over 100,000 records of bike-sharing data. The optimized pipeline achieved a significant 40% reduction in data preparation time, streamlining the entire analysis workflow. Building upon this foundation, I crafted an interactive Tableau dashboard, complemented by custom SQL queries, that brought the city's bike-sharing dynamics to life. The dashboard visualized critical metrics across London's 800+ stations, resulting in a 35% increase in stakeholder engagement. This comprehensive solution not only enhanced data accessibility but also provided actionable insights for optimizing bike distribution throughout the network, demonstrating the tangible impact of data-driven decision making in urban mobility solutions.
+**Data Analyst (GIS) Intern** — Dallas-Fort Worth International Airport *(Sep 2025 – Dec 2025)*
+- Optimized GIS datasets using Snowflake, Python & Excel → **30% reduction in data inconsistencies**
+- Built Tableau dashboards for operational reporting → **25% improvement in data processing efficiency**
 
-![](https://github.com/zeeshan0710/portfolio/tree/main/images/bike-urban-mobility.jpeg)
+**Data Engineer Intern** — Hirademy Technologies, Bengaluru *(Feb 2024 – May 2024)*
+- Built LLM-based medical report analysis system with Python & Langchain → **40% better diagnostic accuracy**
+- Developed AI-powered Examiner Dashboard with ReactJS → **50% faster report generation**
 
+---
 
-[**Healthcare Analytics for Personalized Treatment**](https://github.com/zeeshan0710/Healthcare-Analytics) | *R, Machine Learning, Data Science*
-- I developed a comprehensive healthcare analytics solution by implementing a data-driven framework in R that can revolutionize personalized patient care delivery. The framework achieved a 25% improvement in personalized care delivery while simultaneously boosting resource efficiency by 30%. By leveraging advanced classification techniques, including Random Forest and Logistic Regression algorithms, on a diabetes dataset, I created a robust predictive model that enhanced treatment strategy formulation. This integrated approach resulted in a significant 25% increase in patient outcome prediction accuracy, demonstrating the powerful impact of machine learning applications in healthcare decision-making processes.
+## 🚀 Projects
 
-![](https://github.com/zeeshan0710/portfolio/tree/main/images/healthcare_analytics.jpeg)
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [Decentralized Sustainable GenAI](/) | AI Infrastructure | 2.8× GPU throughput, 40% better planning accuracy |
+| [Prompt Engineering in AI Gameplay](/) | Python, LLMs, GPT-4, Gemini 2.5 | Published in JAAI; 25% risk-awareness boost |
+| [Truck Risk Factor Analytics](/) | Hadoop, Impala, Power BI | 100K+ records, 15+ high-risk drivers identified |
+| [Urban Mobility Optimization](https://github.com/zeeshan0710/Optimizing-Urban-Mobility) | Python, SQL, Tableau | 100K+ records, 35% stakeholder engagement increase |
+| [Healthcare Analytics](https://github.com/zeeshan0710/Healthcare-Analytics) | R, ML | 25% improvement in patient outcome prediction |
+| [Network Defense Intelligence](https://github.com/zeeshan0710/Cyber-Threat-Identification) | ML, Wireshark | 95.2% threat detection accuracy |
 
-[**Network Defense Intelligence System**](https://github.com/zeeshan0710/Cyber-Threat-Identification) | *Cybersecurity, Machine Learning, Data Visualization*
-- I spearheaded the development of a sophisticated cyber threat detection system that leveraged Gradient Boosting algorithms to achieve an impressive 95.2% accuracy in identifying potential security breaches. Leading a collaborative team effort, I orchestrated comprehensive network analysis using Wireshark and Cisco Packet Tracer to optimize system performance. Through meticulous correlation analysis and dimensionality reduction techniques, we successfully enhanced data processing performance by 20%, creating a more robust and efficient security infrastructure that significantly improved threat detection capabilities while minimizing false positives.
+---
 
-![](https://github.com/zeeshan0710/portfolio/tree/main/images/cyberthreat.jpeg)
+## 🛠 Skills
 
-## Leadership Experience
-- **Microsoft Ambassador** | *Jan 2025 – Present*
-- **Code.exe UTD**, Technical Officer | *Sep 2024 – Present*
-- **Ramaiah Institute of Technology**, Class Representative | *Feb 2021 – May 2024*
-- **UpChild Foundation**, Operations Manager | *Jul 2022 – Jan 2023*
-- **The Interact Club of The Calcutta Boys’ School**, Vice-President | *Apr 2018 - Mar 2019*
+**Languages:** Python · SQL · R · C/C++ · HTML · CSS · ReactJS
 
-## Additional Information
-- **Languages**: English, Hindi, Urdu, Bengali
-- **Achievements**: Nominated for Best Outgoing Student Award in RIT (2024); Gold Medal in Inter-State Quiz of VTU
-Youth Fest (2023); 1st prize in Extempore(2023); Finalist in International Mathematics Olympiad (2013)
+**Analytics & BI:** Tableau · Power BI · ETL · OLAP/OLTP · Statistical Analysis · Hypothesis Testing
+
+**AI & ML:** Machine Learning · LLMs · GenAI · Langchain · Prompt Engineering · OCR
+
+**Cloud & Infra:** Snowflake · AWS · Azure · GCP · Hadoop · Impala
+
+**Certifications:** Snowflake SnowPro Associate · Google Cloud Platform · Python · SQL
+
+---
+
+## 🏆 Leadership & Achievements
+
+- 🥇 **1st Place** — AI Day Hackathon at JSOM, UT Dallas
+- 🏆 **Dean's Excellence Scholarship Award** — UT Dallas (2024)
+- 📝 **Published Research** in JAAI — Prompt Engineering & AI Gameplay
+- 🌟 **Microsoft Student Ambassador** *(Jan 2025 – Present)*
+- 📋 **Vice-President**, Project Management Club UTD *(Jan 2025 – Present)*
+- 💻 **Technical Officer**, Code.exe UTD *(Sep 2024 – Present)*
+- 🥇 **Gold Medal** — Inter-State Quiz, VTU Youth Fest (2023)
+- 🌟 **Nominated** for Best Outgoing Student Award — RIT (2024)
+
+---
+
+## 🌐 Repo Structure
+
+```
+portfolio/
+├── index.html          # Main portfolio page
+├── assets/
+│   ├── css/style.css   # Custom styles
+│   └── js/main.js      # Scroll & animation logic
+├── images/             # Project & profile images
+├── _config.yml         # GitHub Pages config
+└── .nojekyll           # Bypass Jekyll, serve static HTML
+```
+
+---
+
+*Built with HTML, CSS & vanilla JS · Hosted on GitHub Pages*
