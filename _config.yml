@@ -1,5 +1,13 @@
-title: Zeeshan Ahmad
-logo: /images/zeeshan-headshot.jpg 
-# description:
-# show_downloads: true
-theme: jekyll-theme-minimal
+title: Zeeshan Ahmad | Data Analyst & AI Engineer
+description: Portfolio of Zeeshan Ahmad — Data Analyst, AI Engineer, and Tech Consultant based in Dallas, TX.
+url: "https://zeeshan0710.github.io"
+baseurl: "/portfolio"
+
+# Use no theme — we're serving a custom index.html
+theme: null
+
+# Exclude source files from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
